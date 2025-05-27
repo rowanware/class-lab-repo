@@ -1,6 +1,6 @@
 ## Class Information
-- Name: [Your Name Here]  
-- Certification: [Your Certification Name Here]  
+- Name: Rowan Ware  
+- Certification: Meta React Native Specialisation  
 
 ## Instructions
 Please replace the placeholders with your details:
